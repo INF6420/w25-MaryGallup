@@ -56,3 +56,23 @@ interactive form to join
 access to pay FoCTPL dues
 
 Footer- address, phone number, e-mail, facebook page
+
+## Wireframe- Booksales
+
+Wireframe of information about FoCTPL Booksales
+
+! [wireframe of booksale page] Wireframes\Wireframe-4 Booksales.png
+
+Image of CTPL book sales
+
+CTPL's Logo
+
+Navigation menu- includes, Home, About, Join, and Book Sales
+
+Slideshow of new items for sale
+
+List of booksale dates
+
+price list
+
+Footer- address, phone number, e-mail, facebook page
