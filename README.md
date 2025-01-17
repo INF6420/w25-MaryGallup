@@ -36,3 +36,23 @@ brief written history of friends of the Clinton Township Public Library
 Directory with name, title, e-mail address including: library director, Friends President, VP, Treasurer, and Secretary
 
 Footer- address, phone number, e-mail, facebook page
+
+## Wireframe- Join
+
+wireframe to join the Friends of the Clinton Township Public Library
+
+! [wireframe of join page] Wireframes\wireframes-3 join.png
+
+Image of CTPL book sales
+
+CTPL's Logo
+
+Navigation menu- includes, Home, About, Join, and Book Sales
+
+Textbox: Why join the friends?
+
+interactive form to join
+
+access to pay FoCTPL dues
+
+Footer- address, phone number, e-mail, facebook page
