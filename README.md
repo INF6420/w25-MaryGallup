@@ -5,7 +5,7 @@
 
 Wireframes of Friends of the Clinton Township Public Library website
 
-![Wireframe of landing page] C:\Users\Mary\Documents\GitHub\w25-MaryGallup\Wireframes\Wireframe-1.png
+![Wireframe of landing page] Wireframes\Wireframe-1.png
 
 Image of CTPL book sales
 
@@ -24,8 +24,7 @@ Footer- address, phone number, e-mail, facebook page
 
 wireframe of About page for FofCTPL
 
-! [wireframe of about page] Wireframes\Wireframe-2 about.png
-
+! [wireframe of about page] C:\Users\Mary\Documents\GitHub\w25-MaryGallup\Wireframes\Wireframe-2 about.png
 Image of CTPL book sales
 
 CTPL's Logo
