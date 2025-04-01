@@ -68,3 +68,42 @@ nav a.active{
 .list a{
     color:rgb(25, 0, 255)
 }
+.form-input{
+    border: 2px solid white;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 1em;
+    margin-bottom: 1.5em;
+    width: 25%;
+        
+}
+.form-input focus {
+    outline: none;
+    border: 2xp solid black;
+
+}
+[type="submit"] {
+    background: rgb(212, 152, 73);
+    color: whitesmoke;
+    width: 10%;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: .5em;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border: 0;
+
+
+
+}
+.error {
+    border-color: red
+
+}
+.error-message {
+    color: red;
+    margin: -1em 0 1.5em;
+
+}

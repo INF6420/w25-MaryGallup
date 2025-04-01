@@ -30,12 +30,49 @@
 </header> 
 <main>
   <div><h2>Become a Friend of the Clinton Township Public Library!</h2>
-  <p>sample text</p></div>
-  <div>sample form to join Friends-of-the-Clinton-Township-Library
-    <p><a href="**link"> Pay your dues</a></p>
-  </div>
+  <p>It's quick and easy!</p></div>
+  <div>
     
-</main>
+    <form
+      action="https://formspree.io/f/xanqkpjp"
+      method="POST"
+          class="validate"
+      >
+    <label>Name:
+      <input type="text" name="name" class="form-input" required>
+    </label>
+    <br />
+      <label>
+        Your email:
+        <input type="email" name="email" class="form-input" required>
+      </label>
+      <br />
+      <label>In what way do you want to be involved in the Friends? (select all that apply)
+        <br />
+				<input type="checkbox" name="role" value="sorting"  /> Sorting Books
+        <br />
+				<input type="checkbox" name="role" value="sales"  /> Working Saturday booksales
+        <br />
+				<input type="checkbox" name="role" value="library"/> Volunteering for Library programs
+        <br />
+        <input type="checkbox" name="role" value="recycling" /> Taking un-salable items to recycling centers
+
+      </label>
+      <label><br />
+        How did you hear about the Friends of the Clinton Township Public Library?
+        <br />
+        <select name="options" class="form-input">
+          <option value="radio">WLEN</option>
+          <option value="newspaper">Daily Telegram</option>
+          <option value="library">Clinton Township Public Library website or social media</option>
+        </select></label>
+        <br />
+        <input type="submit" value="Join!" id="submit" />   
+      </form>
+    <p><a href="**link"> Pay your dues</a></p>
+  
+    <script src="script.js"></script>
+
 <footer>
 
     <a href="https://www.facebook.com/people/Friends-of-the-Clinton-Township-Library/100091339873135/">
@@ -46,5 +83,5 @@
         Clinton Mi 49236</h6>
 
 </footer>
-</body>
+  </div></main></body>
 </html>
